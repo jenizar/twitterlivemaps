@@ -2,6 +2,7 @@
  Twitter Live Maps with leaflet.js, python, and apache kafka 
  
 Intro: 
+
 Apache Kafka is implemented to process Twitter data streaming in real time. In contrast, streaming means that you are watching the show as the packets arrive. Stream processing is then the act of processing a continuous flow of incoming data.
 
 ![alt text](https://github.com/jenizar/twitterlivemaps/blob/master/Screenshot/TwitterWorldMap.PNG)
@@ -26,6 +27,7 @@ C:\kafka\bin\windows>kafka-topics.bat --zookeeper 0.0.0.0:2181 --topic twitterda
 6. Run twitter.py
 
 Attention:
+
 If your kafka server not working to start, you can clear data logs in each topics folder in directory C:\tmp\kafka-logs (windows)
 
 References:
