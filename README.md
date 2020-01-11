@@ -6,6 +6,7 @@ Intro:
 Apache Kafka is implemented to process Twitter data streaming in real time. In contrast, streaming means that you are watching the show as the packets arrive. Stream processing is then the act of processing a continuous flow of incoming data.
 
 ![alt text](https://github.com/jenizar/twitterlivemaps/blob/master/Screenshot/TwitterWorldMap.PNG)
+
 ![alt text](https://github.com/jenizar/twitterlivemaps/blob/master/Screenshot/TwitterWorldMapTopic.PNG)
 
 Guides:
